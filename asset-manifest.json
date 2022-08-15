@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alcoimcdades/static/css/main.ac8f990c.css",
-    "main.js": "/alcoimcdades/static/js/main.cf9558cf.js",
+    "main.js": "/alcoimcdades/static/js/main.abddf60e.js",
     "static/js/787.28cb0dcd.chunk.js": "/alcoimcdades/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/alcoimcdades/index.html",
     "main.ac8f990c.css.map": "/alcoimcdades/static/css/main.ac8f990c.css.map",
-    "main.cf9558cf.js.map": "/alcoimcdades/static/js/main.cf9558cf.js.map",
+    "main.abddf60e.js.map": "/alcoimcdades/static/js/main.abddf60e.js.map",
     "787.28cb0dcd.chunk.js.map": "/alcoimcdades/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac8f990c.css",
-    "static/js/main.cf9558cf.js"
+    "static/js/main.abddf60e.js"
   ]
 }
